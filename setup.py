@@ -17,7 +17,7 @@ classifiers = ['Development Status :: 4 - Beta',
 
 setup(
     name         = 'FaBo3Axis_ADXL345',
-    version      = '1.0.0',
+    version      = '1.0.1',
     author       = 'FaBo',
     author_email = 'info@fabo.io',
     description  = "This is a library for the FaBo #201 3AXIS I2C Brick.",
